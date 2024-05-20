@@ -1,0 +1,16 @@
+header {
+    background-color: cadetblue;
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    width: auto;
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
+#logo_booleaner {
+    width: 200px;
+    height: auto;
+    padding-top: 40px;
+    padding-left: 10px;
+}
