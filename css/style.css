@@ -1,3 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+main {
+    margin-left: 10px;
+}
+
 header {
     background-color: cadetblue;
     background-image: url(../img/pattern.png);
@@ -13,4 +27,30 @@ header {
     height: auto;
     padding-top: 40px;
     padding-left: 10px;
+}
+
+.yellow_text {
+    background-color: yellow;
+}
+
+.cyan_text {
+    color: rgb(0, 110, 255);
+}
+
+.tiny_font {
+    font-size: 13px;
+}
+
+#main_section {
+    margin-top: 20px;
+}
+
+#title {
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#main_img {
+    margin-top: 20px;
 }
