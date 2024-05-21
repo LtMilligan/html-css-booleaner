@@ -85,3 +85,25 @@ footer {
     margin-left: 10px;
     margin-top: 20px;
 }
+
+h2 {
+    color: gray;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+}
+
+.picture {
+    width: 250px;
+    height: 200px;
+    margin: 10px 0px;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
