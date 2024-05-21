@@ -41,7 +41,7 @@ header {
     font-size: 13px;
 }
 
-#main_section {
+.main_section {
     margin-top: 20px;
 }
 
@@ -52,5 +52,25 @@ header {
 }
 
 #main_img {
+    margin-top: 20px;
+}
+
+#main_list {
+    margin-top: 20px;
+}
+
+.cyan_bg {
+    background-color: rgb(0, 110, 255);
+}
+
+.azzurro_bg {
+    background-color: aqua;
+}
+
+.white_text {
+    color: white;
+}
+
+table {
     margin-top: 20px;
 }
